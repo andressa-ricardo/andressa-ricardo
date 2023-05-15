@@ -13,8 +13,8 @@
 <br>
 
 <div align="center">  
-  <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api?username=JeffersonAlves7&show_icons=true&count_private=true&hide_border=true&title_color=F7D4F7FF&icon_color=ff91a4&text_color=F7B4F5FF&bg_color=4169E1&" alt="Jefferson Alves github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeffersonAlves7&layout=compact&hide_border=true&title_color=F7D4F7FF&text_color=ff91a4&bg_color=0d1117" />
+  <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api?username=andressa-ricardo&show_icons=true&count_private=true&hide_border=true&title_color=F7D4F7FF&icon_color=ff91a4&text_color=F7B4F5FF&bg_color=4169E1&" alt="Andressa Ricardo github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andressa-ricardo&layout=compact&hide_border=true&title_color=F7D4F7FF&text_color=ff91a4&bg_color=0d1117" />
 </div>
 </div>
 <br>
