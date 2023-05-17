@@ -3,8 +3,12 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Arial&color=F7D4F7FF&size=25&center=true&vCenter=true&width=1000&lines=Hello+World!+Welcome+to+my+Github!+:%29)](https://git.io/typing-svg)
 
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,scss,bootstrap,js,nodejs,python,react" />
+  </a>
+</p>
 
-![HTML5](./assets/html.svg) ![CSS3](./assets/css.svg) ![Bootstrap](./assets/bootstrap.svg) ![TailwindCSS](./assets/tailwind.svg) ![JavaScript](./assets/javascript.svg) ![React](./assets/react.svg)
 
 <br>
 
